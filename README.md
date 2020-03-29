@@ -1,5 +1,6 @@
 # Mini-Blockchain
-# from blockchain import Blockchain
+
+Import into file to work:  from blockchain import Blockchain
 
 
 This is an example of how a blockchain works using Python. I created these files via a tutorial on Codecademy.
@@ -12,5 +13,6 @@ This program allows:
 3. Print the blocks in the blockchain
 4. Validate chain to check if it has been tampered with therefore being invalid
 5. Uses the "proof of work" which generates who is going to be authorized to add it to their chain
+
 
 
